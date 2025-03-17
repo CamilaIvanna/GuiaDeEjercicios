@@ -9,3 +9,6 @@ La natación es un ejercicio de bajo impacto que trabaja todo el cuerpo y mejora
 1. Realiza un calentamiento en seco antes de entrar al agua.
 2. Nada a diferentes ritmos y estilos para un entrenamiento completo.
 3. Enfría con movimientos suaves en el agua y estiramientos fuera de la piscina.
+## Consejos
+- Usa gafas y gorro para mayor comodidad.
+- Practica diferentes estilos de natación para trabajar más músculos.
