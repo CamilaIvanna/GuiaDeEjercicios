@@ -9,3 +9,6 @@ El boxeo es un entrenamiento de alta intensidad que combina fuerza, cardio y coo
 1. Realiza un calentamiento dinámico.
 2. Practica golpes, esquivas y combinaciones de movimientos.
 3. Finaliza con ejercicios de enfriamiento y estiramientos.
+## Consejos
+- Usa guantes y vendas para proteger las manos.
+- Mantén una postura firme y controlada.
