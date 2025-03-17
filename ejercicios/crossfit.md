@@ -9,3 +9,6 @@ CrossFit es un entrenamiento de alta intensidad basado en movimientos funcionale
 1. Realiza un calentamiento con movilidad y ejercicios dinámicos.
 2. Ejecuta la rutina con combinaciones de levantamiento de pesas, cardio y gimnasia.
 3. Finaliza con enfriamiento y estiramientos.
+## Consejos
+- Ajusta la intensidad según tu nivel.
+- Escucha a tu cuerpo y evita sobrecargas.
