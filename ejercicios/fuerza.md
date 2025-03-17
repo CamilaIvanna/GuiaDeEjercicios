@@ -10,3 +10,6 @@ Los ejercicios de fuerza ayudan a desarrollar y fortalecer los músculos mediant
 2. Ejecuta ejercicios con pesas, máquinas o peso corporal (sentadillas, flexiones, levantamiento de pesas).
 3. Descansa entre series y mantén una postura adecuada.
 4. Finaliza con estiramientos para prevenir lesiones.
+## Consejos
+- Aumenta la carga progresivamente.
+- Mantén una buena técnica para evitar lesiones.
